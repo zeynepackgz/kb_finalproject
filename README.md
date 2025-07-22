@@ -5,6 +5,12 @@ Bu Power BI projesi, Paşabahçe markasının kullanıcı, adres, sipariş ve ü
 
 ---
 
+## 📹 Proje Tanıtım Videosu
+
+[📺 YouTube'da İzle](https://youtu.be/Akwc9e0JDZ8)
+
+---
+
 ## 📁 Veri Setleri
 
 - **kullanicilar.csv** → Kullanıcı bilgileri (ID, isim, cinsiyet, doğum tarihi, kayıt tarihi)
@@ -91,10 +97,3 @@ CSV veri dosyaları
 
 📌 Proje Amacı
 Bu proje, Paşabahçe markasının müşteri kitlesini daha iyi anlamasına, yaş, cinsiyet, şehir gibi demografik özelliklere göre satış analizleri yapmasına ve ürün kategorilerindeki performansı değerlendirmesine olanak sağlamaktadır.
-
-## 📹 Proje Tanıtım Videosu
-
-[📺 YouTube'da İzle](https://youtu.be/Akwc9e0JDZ8)
-
-
-
